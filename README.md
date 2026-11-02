@@ -1,27 +1,23 @@
-# Ceasar Haddad
+# Hi, I’m Ceasar
 
-I build tools and games around how I actually work.
-I care about software behaving exactly how I want.
+I use Claude Code for my own projects.
+These are two things I wanted to share.
 
-## Featured project
+## My Claude setup
 
-### [Claude Behavior Layer](https://github.com/Ceasar369/claude-behavior-layer)
+[Claude Behavior Layer](https://github.com/Ceasar369/claude-behavior-layer) is the setup I use.
+It has my rules, workflows, and a few local tools.
+It works well for me.
+It’s here in case someone else finds it useful.
 
-My working environment for building with Claude Code.
-It combines working rules, reusable workflows, and local tools.
-A dashboard gathers sessions, decisions, prototypes, and handovers.
-I use it to turn clear intent into working software.
+[Source](https://github.com/Ceasar369/claude-behavior-layer) · [Setup](https://github.com/Ceasar369/claude-behavior-layer#try-it-locally)
 
-[Explore the layer](https://ceasar369.github.io/claude-behavior-layer/) · [Read the source](https://github.com/Ceasar369/claude-behavior-layer)
+## Blindfold Chess
 
-## Built with this approach
+I tried that setup on a separate project.
+[Blindfold Chess](https://github.com/Ceasar369/blindfold-chess) is a trainer I made for myself.
+It helps me practise playing without seeing the pieces.
+The Claude setup worked well for me here too.
+You can play it online or run it locally.
 
-**[Blindfold Chess](https://github.com/Ceasar369/blindfold-chess)** is one result of that approach.
-
-I used this approach to build a personal chess trainer.
-Six chapters train visualization, from coordinates to blind play.
-Its interface follows how I wanted to practice.
-
-[Play Blindfold Chess](https://ceasar369.github.io/blindfold-chess/) · [Run it locally](https://github.com/Ceasar369/blindfold-chess#run-it-locally)
-
-![Blindfold Chess training exercise](https://raw.githubusercontent.com/Ceasar369/blindfold-chess/main/docs/images/training.jpg)
+[Play](https://ceasar369.github.io/blindfold-chess/) · [Source and setup](https://github.com/Ceasar369/blindfold-chess)
